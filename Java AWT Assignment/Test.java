@@ -122,9 +122,9 @@ public class Test
 		
 		Button b = new Button("Submit");
 		b.setBounds(200,680,80,30);
-    	f.add(b);
+    		f.add(b);
 		
-    	//Frame Details
+    		//Frame Details
 		f.setSize(500,725);
 		Color newColor1 = new Color(97,226,167);
 		f.setBackground(newColor1);
