@@ -5,6 +5,9 @@
 * Dynamic programming [*Box Stack Problem*]
 * Branch and bound [*Job Problem*]
 
+# JAVA Assignment
+* Resume Builder using Abstract Window Toolkit(AWT)
+
 ## daa-jerinjoseph121
 Name: **Jerin Joseph**<br>
 Roll no: **181210025**<br>
